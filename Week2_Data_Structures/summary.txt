@@ -1,0 +1,5 @@
+Week 2 Summary:
+- Learned data structures (list, set)
+- Learned functions and lambda
+- Performed data cleaning (remove duplicates, filtering)
+- Implemented sum of squares and even number filtering

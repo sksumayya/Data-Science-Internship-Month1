@@ -1,0 +1,4 @@
+Week 1 Summary:
+- Learned Python basics
+- Variables, loops, conditions
+- Created calculator and temperature converter

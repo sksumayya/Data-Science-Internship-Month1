@@ -1,0 +1,5 @@
+Week 3 Summary:
+- Learned NumPy arrays and operations
+- Learned Pandas DataFrames
+- Performed data cleaning (removed missing values)
+- Calculated average values from dataset
